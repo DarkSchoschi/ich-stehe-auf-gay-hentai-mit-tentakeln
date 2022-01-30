@@ -1,0 +1,44 @@
+[17:29:17] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:29:18] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[17:29:18] [Worker-Main-4/INFO]: Loaded 7 recipes
+[17:29:19] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[17:29:19] [Server thread/INFO]: Loading properties
+[17:29:19] [Server thread/INFO]: This server is running Paper version git-Paper-177 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: 2e99e5e)
+[17:29:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:29:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:29:19] [Server thread/WARN]: Packet 'PacketPlayInAutoRecipe' does not exist, cannot limit it! Please update paper.yml
+[17:29:19] [Server thread/INFO]: Default game type: SURVIVAL
+[17:29:19] [Server thread/INFO]: Generating keypair
+[17:29:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:29:19] [Server thread/INFO]: Using epoll channel type
+[17:29:19] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:29:19] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:29:19] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_18_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[17:29:21] [Server thread/WARN]: Legacy plugin TentakelPlugin v1.0 does not specify an api-version.
+[17:29:21] [Server thread/INFO]: [TentakelPlugin] Loading 3 libraries... please wait
+[17:29:21] [Server thread/INFO]: [TentakelPlugin] Loaded library /home/mommde/Programming/Schoschi/ich-stehe-auf-gay-hentai-mit-tentakeln/run/libraries/org/jetbrains/kotlin/kotlin-stdlib/1.6.10/kotlin-stdlib-1.6.10.jar
+[17:29:21] [Server thread/INFO]: [TentakelPlugin] Loaded library /home/mommde/Programming/Schoschi/ich-stehe-auf-gay-hentai-mit-tentakeln/run/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[17:29:21] [Server thread/INFO]: [TentakelPlugin] Loaded library /home/mommde/Programming/Schoschi/ich-stehe-auf-gay-hentai-mit-tentakeln/run/libraries/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.10/kotlin-stdlib-common-1.6.10.jar
+[17:29:21] [Server thread/INFO]: [TentakelPlugin] Loaded library /home/mommde/Programming/Schoschi/ich-stehe-auf-gay-hentai-mit-tentakeln/run/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.6.0/kotlinx-coroutines-core-1.6.0.jar
+[17:29:21] [Server thread/INFO]: [TentakelPlugin] Loaded library /home/mommde/Programming/Schoschi/ich-stehe-auf-gay-hentai-mit-tentakeln/run/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.6.0/kotlinx-coroutines-core-jvm-1.6.0.jar
+[17:29:21] [Server thread/INFO]: [TentakelPlugin] Loaded library /home/mommde/Programming/Schoschi/ich-stehe-auf-gay-hentai-mit-tentakeln/run/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.6.0/kotlinx-coroutines-jdk8-1.6.0.jar
+[17:29:21] [Server thread/INFO]: [TentakelPlugin] Loaded library /home/mommde/Programming/Schoschi/ich-stehe-auf-gay-hentai-mit-tentakeln/run/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.6.0/kotlin-stdlib-jdk8-1.6.0.jar
+[17:29:21] [Server thread/INFO]: [TentakelPlugin] Loaded library /home/mommde/Programming/Schoschi/ich-stehe-auf-gay-hentai-mit-tentakeln/run/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.6.0/kotlin-stdlib-jdk7-1.6.0.jar
+[17:29:21] [Server thread/INFO]: [TentakelPlugin] Loading TentakelPlugin v1.0
+[17:29:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:29:21] [Server thread/INFO]: Preparing level "world"
+[17:29:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:29:22] [Server thread/INFO]: Time elapsed: 174 ms
+[17:29:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:29:22] [Server thread/INFO]: Time elapsed: 63 ms
+[17:29:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:29:22] [Server thread/INFO]: Time elapsed: 56 ms
+[17:29:22] [Server thread/INFO]: [TentakelPlugin] Enabling TentakelPlugin v1.0*
+[17:29:22] [Server thread/INFO]: [TentakelPlugin] TentakelPlugin enabled
+[17:29:22] [Server thread/INFO]: Running delayed init tasks
+[17:29:22] [Server thread/INFO]: Done (3.775s)! For help, type "help"
+[17:29:22] [Server thread/INFO]: Timings Reset
+[17:29:23] [User Authenticator #1/INFO]: UUID of player MoMMde is ee7fad93-add7-4415-bb4c-cff83e8965b0
+[17:29:24] [Server thread/INFO]: MoMMde joined the game
+[17:29:24] [Server thread/INFO]: MoMMde[/127.0.0.1:56936] logged in with entity id 119 at ([world]341.27865423753843, 64.0, -22.992846680760923)
+[17:29:29] [Server thread/INFO]: MoMMde issued server command: /challenge
